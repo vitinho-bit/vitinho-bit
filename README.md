@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {vitinho-bit!
+## 💜 Olá, meu nome é vitinho-bit!
 
 Faça uma breve apresentação sobre você. 
 Atualmente, sou estudante de Desenvolvimento de Sistemas no SENAI e estou em busca de oportunidades na área, com preferência por vagas home office ou presenciais. Tenho uma grande paixão por tecnologia e estou sempre em busca de novas maneiras de me desenvolver.
