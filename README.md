@@ -1,13 +1,27 @@
-## 💜 Olá, meu nome é vitinho-bit!
+Victor Manoel
 
-Faça uma breve apresentação sobre você. 
-Atualmente, sou estudante de Desenvolvimento de Sistemas no SENAI e estou em busca de oportunidades na área, com preferência por vagas home office ou presenciais. Tenho uma grande paixão por tecnologia e estou sempre em busca de novas maneiras de me desenvolver.
- 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-em desenvolvimento...
+Seja bem-vindo ao meu perfil no GitHub.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+Meu nome é Victor Manoel, sou desenvolvedor com atuação em Front-end e Back-end, possuindo experiência no desenvolvimento de aplicações web modernas, escaláveis e bem estruturadas.
 
+💻 Competências Técnicas
+🔹 Back-end
+
+Java – Desenvolvimento orientado a objetos e boas práticas de arquitetura
+
+Spring Boot – Criação de APIs RESTful e aplicações corporativas
+
+Maven – Gerenciamento de dependências e automação de builds
+
+🔹 Front-end
+
+JavaScript – Desenvolvimento de interfaces dinâmicas e interativas
+
+Integração eficiente entre front-end e serviços back-end
+
+🎯 Perfil Profissional
+
+Tenho como objetivo desenvolver soluções eficientes, aplicando boas práticas de programação, organização de código e melhoria contínua. Busco constantemente aprimorar meus conhecimentos e contribuir com projetos que agreguem valor e inovação.
 ---
 
 ## 🚀 Minhas Skills
