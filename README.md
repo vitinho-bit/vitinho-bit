@@ -1,8 +1,7 @@
-# Victor Manoel
+# Ola meu nome é Victor manoel 
 
-Seja bem-vindo ao meu perfil no GitHub.
 
-Meu nome é Victor Manoel, sou desenvolvedor com atuação em Front-end e Back-end, possuindo experiência no desenvolvimento de aplicações web modernas, escaláveis e bem estruturadas.
+Seja bem-vindo ao meu perfil no GitHub. Sou desenvolvedor com atuação em Front-end e Back-end, possuindo experiência no desenvolvimento de aplicações web modernas, escaláveis e bem estruturadas.
 
 💻 Competências Técnicas
 🔹 Back-end
